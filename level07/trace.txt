@@ -1,0 +1,3 @@
+- Segmentation fault at 700 index for the store command
+- When change the store at index 101 it change the name used for the read program (maybe we can use a shellcode?)
+- change at index 100 don't worked stay at : 1
